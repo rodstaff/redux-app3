@@ -1,6 +1,6 @@
 #redux-pyramids
 
-This is the 'master' branch. [experiment]
+This is the 'master' branch. 
 
 2 branches:
 
@@ -10,7 +10,7 @@ and 2 git remotes:
 
 origin	https://github.com/rodstaff/redux-pyramids (fetch)
 origin	https://github.com/rodstaff/redux-pyramids (push)
-sep	https://github.com/rodstaff/redux-pyramids-seproute (fetch)
-sep	https://github.com/rodstaff/redux-pyramids-seproute (push)
+split	https://github.com/rodstaff/redux-pyramids-seproute (fetch)
+split	https://github.com/rodstaff/redux-pyramids-seproute (push)
 
 
