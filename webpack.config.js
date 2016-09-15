@@ -1,4 +1,5 @@
 var webpack = require('webpack');
+var path = require('path');
 
 module.exports = {
   entry: './dev/js/client.js',
@@ -9,7 +10,7 @@ module.exports = {
   devServer: {
     inline: true,
     publicPath: '/',
-    //filename: 'bundle.js',
+    filename: 'bundle.js',
     //contentBase: '',
     port: 8087
   },
